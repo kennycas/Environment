@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+Environmental Changes
 
 You can use the [editor on GitHub](https://github.com/kennycas/kennycast.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -26,7 +26,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Fomore details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
